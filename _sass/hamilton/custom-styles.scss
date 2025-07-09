@@ -1,1 +1,18 @@
-// Placeholder to allow customizing styles.
+// custom.scss
+body {
+    background-color: #ffffff !important; // 순수한 흰색으로 강제 적용
+}
+
+// 테마에 따라 다른 주요 섹션의 배경색도 명시적으로 지정해주는 것이 좋습니다.
+// Hamilton 테마의 경우 다음과 같은 요소들이 있을 수 있습니다:
+.site-header,
+.page-content,
+.site-footer,
+.sidebar {
+    background-color: #ffffff !important; // 헤더, 본문, 푸터, 사이드바도 흰색으로 강제 적용
+}
+
+// 만약 코드 블록 배경색도 바꾸고 싶다면:
+.highlight {
+    background-color: #f8f8f8 !important; // 코드 블록 배경색 (약간 회색빛 흰색)
+}
