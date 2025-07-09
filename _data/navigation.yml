@@ -1,10 +1,10 @@
-- title: Home
+- title: About
   url: /about/
-- title: Introduction
+- title: Years
   url: /years/
-- title: CV
+- title: Categories
   url: /categories/
-- title: Projects
+- title: Tags
   url: /tags/
 - title: More
   sublinks:
