@@ -16,6 +16,9 @@ paginate: 10
 # 
 # google_analytics: 
 
+theme: jekyll-theme-hamilton
+skin: daylight # 이 줄을 추가합니다.
+
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
 # disqus:
