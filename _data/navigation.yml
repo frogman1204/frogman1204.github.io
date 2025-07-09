@@ -1,14 +1,14 @@
 - title: About
-  url: /About/
+  url: /about/
 - title: Publications
-  url: /Publications/
+  url: /publications/
 - title: Projects
-  url: /Projects/
+  url: /projects/
 - title: CV
   url: /CV/
 - title: More
   sublinks:
     - title: Resources
-      url: /Resources/
+      url: /resources/
     - title: Contact
-      url: /Contact/
+      url: /contact/

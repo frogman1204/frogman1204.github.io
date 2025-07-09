@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /About/
+permalink: /about/
 ---
 
 ## 저에 대해
