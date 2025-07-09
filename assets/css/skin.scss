@@ -1,7 +1,6 @@
----
----
+@charset "utf-8";
 
-@import 
-  "hamilton/skins/{{ site.skin | default: 'daylight' }}",
-  "hamilton/skin"
-;
+// 이 파일은 _config.yml의 'skin' 설정에 따라 다른 스킨 파일을 동적으로 임포트합니다.
+// {{ site.skin }} 변수는 _config.yml에서 'skin: daylight' 등으로 설정한 값을 가져옵니다.
+// 만약 _config.yml에 'skin' 설정이 없으면 기본값으로 'daylight'를 사용합니다.
+@import "hamilton/skins/{{ site.skin | default: 'daylight' }}";
