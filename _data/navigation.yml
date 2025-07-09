@@ -1,5 +1,5 @@
 - title: Home
-  url: /https://frogman1204.github.io/
+  url: /
 - title: About
   url: /About/
 - title: Publications
@@ -12,5 +12,5 @@
   sublinks:
     - title: Resources
       url: /Resources/
-    - title: Contactcs
-      url: /Contactcs/
+    - title: Contact
+      url: /Contact/
