@@ -1,5 +1,5 @@
 ---
-layout: Main page # 또는 다른 적절한 레이아웃 이름
+layout: home # 또는 다른 적절한 레이아웃 이름
 title: "나의 메인 페이지"
 ---
 
