@@ -4,17 +4,13 @@ title: Contact Me
 permalink: /contact/
 ---
 
-## 저에게 연락하기
+# Contact Me
 
-연구 협력, 질문 또는 기타 문의사항이 있으시면 아래 정보를 통해 연락 주십시오.
+Please feel free to reach out using the information below for research collaborations, questions, or any other inquiries.
 
-* **이메일**: [당신의 이메일 주소, 예: your.email@inu.ac.kr]
+* **E-mail**: [yonggyunkim@inu.ac.kr(business matter),kyk00012@naver.com(personal business)]
 * **GitHub**: [https://github.com/frogman1204](https://github.com/frogman1204)
-* **LinkedIn**: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile) (선택 사항)
-* **연구실 주소**:
-    [연구실 이름]
-    [건물명, 호수]
-    [대학교/기관 주소]
-    [우편번호]
-
-[방문 시간을 예약하려면 이메일로 연락 부탁드립니다.]
+* **Lab Address**:
+    [NCISL]
+    [Incheon univ/인천광역시 연수구 아카데미로 119 7호관 216호]
+    [22012]
