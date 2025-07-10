@@ -5,9 +5,9 @@ title: "나의 메인 페이지"
 
 # Welcome!!
 
-# Homepage Introduction: Satellite Communication Research
+## Homepage Introduction: Satellite Communication Research
 
-## Advancing Satellite Signal Intelligence for Next-Generation Communication
+### Advancing Satellite Signal Intelligence for Next-Generation Communication
 
 As an Information and Communication Engineering student with a keen interest in **satellite communication**, I'm currently engaged in research focused on the **detection and sensing of nonlinear and anomalous satellite signals**. My work aims to effectively identify and analyze critical information within **complex and unpredictable satellite signals**.
 
