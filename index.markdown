@@ -5,9 +5,9 @@ title: "나의 메인 페이지"
 
 # Welcome!!
 
-##Homepage Introduction: Architecting the Future of 6G Communication
+## Homepage Introduction: Architecting the Future of 6G Communication
 
-###Pioneering Seamless Connectivity and Awareness with Non-Terrestrial Networks (NTN) and Integrated Sensing and Communication (ISAC)
+### Pioneering Seamless Connectivity and Awareness with Non-Terrestrial Networks (NTN) and Integrated Sensing and Communication (ISAC)
 
 As an Information and Communication Engineering researcher passionate about the next frontier of global connectivity, my work is centered on the core technologies shaping the 6G era. I am currently engaged in advanced research focusing on two of its most transformative pillars: Non-Terrestrial Networks (NTN) and Integrated Sensing and Communication (ISAC).
 
