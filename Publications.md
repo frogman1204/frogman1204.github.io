@@ -16,4 +16,4 @@ Here is a list of my academic publications.
 
 * **[Paper Title 2: CEEMDAN-AI Based Equalizer for Nonlinear Distortion Mitigation in Satellite Communications]**.
 [Yonggyun Kim], [Jongbeom Lee], [Minyong Park],[Byungju Lee]
-*The 16th International Conference on ICT Convergence (ICTC 2025)*
+*The 16th International Conference on ICT Convergence (ICTC 2025)*.
