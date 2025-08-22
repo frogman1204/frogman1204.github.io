@@ -8,7 +8,7 @@ permalink: /contact/
 
 Please feel free to reach out using the information below for research collaborations, questions, or any other inquiries.
 
-* **E-mail**: [yonggyunkim@inu.ac.kr(business matter),kyk00012@naver.com(personal business)]
+* **E-mail**: [yonggyunkim@inu.ac.kr(business matter), kyk00012@naver.com(personal business)]
 * **GitHub**: [https://github.com/frogman1204](https://github.com/frogman1204)
 * **Lab Address**:
     [NCISL]
