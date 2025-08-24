@@ -8,7 +8,7 @@ permalink: /publications/
 # Publications
 ---
 ## 2025
-
+### JOURNAl
 
 ### CONFERENCE
 * **[C1: Trends in Satellite Radio Monitoring Technology for Countering Inline Interference between LEO (Low Earth Orbit) and GEO (Geostationary Orbit) Satellites]**. [Jongbeom Lee], [Junseo Lee], [Yonggyun Kim], [Minyong Park], [Younghan Kim], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2025)*.
