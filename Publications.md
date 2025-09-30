@@ -14,7 +14,7 @@ permalink: /publications/
 
 ### CONFERENCE
 * **[C1: ]**.[Yongkyun Kim], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
-* **[C2: ]**.[Yongkyun Kim], [byungju lee] *2025 IEEE Global Communications Conference (GLOBECOM 2025), Taipei, Taiwan, Dec. 8-12, 2025*.
+* **[C2: ]**.[Yongkyun Kim], [byungju lee] *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
 * **[C3: ]**.[Yongkyun Kim], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2026)*.
 * **[C4: ]**.[Yongkyun Kim], [byungju lee] *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 
