@@ -9,13 +9,14 @@ permalink: /publications/
 ---
 
 ## 2026
+
 ### JOURNAL
-* **[J1: ]**.[Yongkyun Kim], [byungju lee]. *ICT Express, 2026.*.
+* **[J1: 6G Trands]**.[Yongkyun Kim], [byungju lee]. *ICT Express, 2026.*.
 
 ### CONFERENCE
-* **[C1: ]**.[Yongkyun Kim], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
-* **[C2: ]**.[Yongkyun Kim], [byungju lee] *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
-* **[C3: ]**.[Yongkyun Kim], [byungju lee] *The 17th International Conference on ICT Convergence (ICTC 2026)*.
+* **[C1: ISAC]**.[Yongkyun Kim], [byungju lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
+* **[C2: ISAC]**.[Yongkyun Kim], [byungju lee] *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
+* **[C3: NTN]**.[Yongkyun Kim], [byungju lee] *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 
 ## 2025
 
