@@ -12,6 +12,7 @@ permalink: /publications/
 
 ### JOURNAL
 * **[J1: 6G Trands]**.[Yongkyun Kim], [byungju lee]. *ICT Express, 2026*.
+* **[J2: ISAC]**.[Yongkyun Kim], [byungju lee]. *Q1*.
 
 ### CONFERENCE
 * **[C1: ISAC]**.[Yongkyun Kim], [byungju lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
