@@ -15,11 +15,14 @@ permalink: /publications/
 * **[J2: ISAC]**.[Yongkyun Kim], [byungju lee]. *Q1*.
 
 ### CONFERENCE
-* **[C1: ISAC]**.[Yongkyun Kim], [byungju lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
-* **[C2: ISAC]**.[Yongkyun Kim], [byungju lee] *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
+* **[C1: RSMA]**.[Yongkyun Kim], [Jongbeom Lee], [byungju lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
+* **[C2: DRL]**.[Yongkyun Kim], [byungju lee] *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
 * **[C3: NTN]**.[Yongkyun Kim], [byungju lee] *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 
 ## 2025
+
+### JOURNAL
+* **[J1: NTN]**.[Jongbeom Lee], [Yongkyun Kim], [byungju lee]. *KCI, 2025*.
 
 ### CONFERENCE
 * **[C1: Trends in Satellite Radio Monitoring Technology for Countering Inline Interference between LEO (Low Earth Orbit) and GEO (Geostationary Orbit) Satellites]**. [Jongbeom Lee], [Junseo Lee], [Yongkyun Kim], [Minyong Park], [Younghan Kim], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2025)*.
