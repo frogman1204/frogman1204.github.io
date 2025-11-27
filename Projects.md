@@ -12,5 +12,5 @@ permalink: /projects/
 ### 2. [Project 2 : Development of Next-Generation Wireless Communication Standard Technologies Using LEO Satellites]
 
 * **Duration** : September 2025 - Present
-* Description : This project aims to develop next-generation wireless communication standard technologies by integrating 6G NTN (Non-Terrestrial Networks) with LEO (Low Earth Orbit) CubeSats (16~24U). We designed the satellite mission and analyzed system requirements to converge high-resolution EO (Earth Observation) with communication functions. Additionally, we designed the TM/TC (Telemetry & Telecommand) interface and developed a simulator to verify command sequences and data transmission protocols (such as CCSDS and CSP) between the CubeSat and GS (Ground Stations).
-* Technology Stack : Matlab, Python, AI
+* Description : This project aims to develop next-generation wireless communication standard technologies by integrating 6G NTN with LEO, CubeSats. We designed the satellite mission and analyzed system requirements to converge high-resolution Earth Observation with communication functions. Additionally, we designed the Telemetry & Telecommand interface and developed a simulator to verify command sequences and data transmission protocols between the CubeSat and GS.
+* Technology Stack : Matlab, Python, AI,
