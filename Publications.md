@@ -11,8 +11,9 @@ permalink: /publications/
 ## 2026
 
 ### JOURNAL
-* **[J1: 6G Trands]**.[Yongkyun Kim], [byungju lee]. *ICT Express, 2026*.
-* **[J2: ISAC]**.[Yongkyun Kim], [byungju lee]. *Q1*.
+* **[J1: 6G Trands]**.[Jongbeom Lee], [Yongkyun Kim], [Minyong Park], [Younghan Kim], [], [], [byungju lee]. *ICT Express, 2026*.
+* **[J2: NTN]**.[Yongkyun Kim], [Jongbeom Lee], [Younghan Kim], [byungju lee]. *Q1*.
+* **[J3: ISAC]**.[Yongkyun Kim], [byungju lee]. *Q1*.
 
 ### CONFERENCE
 * **[C1: RSMA]**.[Yongkyun Kim], [Jongbeom Lee], [byungju lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
@@ -25,6 +26,6 @@ permalink: /publications/
 * **[J1: NTN]**.[Jongbeom Lee], [Yongkyun Kim], [byungju lee]. *KCI, 2025*.
 
 ### CONFERENCE
-* **[C1: Trends in Satellite Radio Monitoring Technology for Countering Inline Interference between LEO (Low Earth Orbit) and GEO (Geostationary Orbit) Satellites]**. [Jongbeom Lee], [Junseo Lee], [Yongkyun Kim], [Minyong Park], [Younghan Kim], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2025)*.
+* **[C1: Trends in Satellite Radio Monitoring Technology for Countering Inline Interference between LEO (Low Earth Orbit) and GEO (Geostationary Orbit) Satellites]**. [Jongbeom Lee], [Yongkyun Kim], [Minyong Park], [Younghan Kim], [Junseo Lee], [byungju lee]. *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2025)*.
 
 * **[C2: CEEMDAN-AI Based Equalizer for Nonlinear Distortion Mitigation in Satellite Communications]**.[Yongkyun Kim], [Jongbeom Lee], [Minyong Park],[Byungju Lee] *The 16th International Conference on ICT Convergence (ICTC 2025)*.
