@@ -11,7 +11,7 @@ permalink: /publications/
 ## 2026
 
 ### JOURNAL
-* **[J1: NTN]**.[Jongbeom Lee], [Yongkyun Kim], [byungju lee]. *KCI, 2025*.
+* **[J1: NTN]**.[Jongbeom Lee], [Yongkyun Kim],[Younghan Kim], [byungju lee]. *KCI, 2025*.
 * **[J2: 6G Trands]**.[Jongbeom Lee], [Yongkyun Kim], [Minyong Park], [Younghan Kim], [], [], [byungju lee]. *ICT Express, 2026*.
 * **[J3: NTN]**.[Yongkyun Kim], [Jongbeom Lee], [Younghan Kim], [byungju lee]. *Q1*.
 * **[J4: ISAC]**.[Yongkyun Kim], [byungju lee]. *Q1*.
