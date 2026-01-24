@@ -17,7 +17,7 @@ permalink: /publications/
 * **[J4: ISAC]**.[Yongkyun Kim], [byungju lee]. *Q1*.
 
 ### CONFERENCE
-* **[C1: RSMA]**.[Yongkyun Kim], [Jongbeom Lee], [byungju lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026)*.
+* **[C1: AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-based Study]**.[Yongkyun Kim], [Jongbeom Lee], [Yongmin Choi*], [Byungju Lee] *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026).*
 * **[C2: DRL]**.[Yongkyun Kim], [byungju lee] *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
 * **[C3: NTN]**.[Yongkyun Kim], [byungju lee] *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 
