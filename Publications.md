@@ -24,6 +24,6 @@ permalink: /publications/
 
 
 ### CONFERENCE
-* **[C1]**. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Minyong Park], [Younghan Kim], [Junseo Lee], [byungju lee]. Trends in Satellite Radio Monitoring Technology for Countering Inline Interference between LEO (Low Earth Orbit) and GEO (Geostationary Orbit) Satellites *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2025)*.
+* [C1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Minyong Park], [Younghan Kim], [Junseo Lee], [byungju lee]. <u>["Trends in Satellite Radio Monitoring Technology for Countering Inline Interference between LEO (Low Earth Orbit) and GEO (Geostationary Orbit) Satellites"]<u> *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2025)*.
 
 * **[C2: CEEMDAN-AI Based Equalizer for Nonlinear Distortion Mitigation in Satellite Communications]**. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Minyong Park],[Byungju Lee] *The 16th International Conference on ICT Convergence (ICTC 2025)*.
