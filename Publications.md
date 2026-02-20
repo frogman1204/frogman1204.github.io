@@ -11,7 +11,7 @@ permalink: /publications/
 ## 2026
 
 ### JOURNAL
-* [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *Q1*.
+* [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> * *.
 * [J2]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Minyong Park], [Younghan Kim], [], [], [byungju lee]. <u>""</u> *ICT Express, 2026*.
 * [J1]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Younghan Kim], [byungju lee]. <u>""</u> *KCI, 2025*.
 
