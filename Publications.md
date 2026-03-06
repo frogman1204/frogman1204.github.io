@@ -13,11 +13,13 @@ permalink: /publications/
 ### JOURNAL
 * [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> * *.
 * [J2]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Minyong Park], [Younghan Kim], [], [], [byungju lee]. <u>""</u> *ICT Express, 2026*.
-* [J1]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Younghan Kim], [byungju lee]. <u>""</u> *KCI, 2025*.
+* [J1]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Younghan Kim], [byungju lee]. <u>""</u> *ICT Express, 2026*.
 
 
 ### CONFERENCE
-* [C4]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *2026 IEEE Global Communications Conference (GLOBECOM 2026), 2026*.
+* [C6]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM 2026), 2026*.
+* [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>""</u> *The Korean Institute of Electrical Engineers (International Conference on Electrical Engineering, ICEE 2026).*
+* [C4] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-Based Study"</u> *Joint Conference on Communications and Information (JCCI 2026)*
 * [C3] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Yongmin Choi\*], [Byungju Lee]. <u>"AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-Based Study"</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026).* **[Excellence Undergraduate Student Paper Award]**
 
 
