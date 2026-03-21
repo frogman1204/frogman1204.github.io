@@ -20,5 +20,5 @@ permalink: /projects/
 * Technology Stack : Matlab, Python, AI,
 
 * **Duration** : March 2026 - February 2029
-* Description :Description: Participated in drafting a research proposal on 6G AI-native non-terrestrial networks (NTN) for integrated space-air-ground communications. Contributed to technical concept development covering LMM-based channel acquisition, ST-RSMA-based interference management, AmBC-enabled energy-efficient communications, and AI-driven radio monitoring platforms.
+* Description: This project focuses on the development of 6G AI-native non-terrestrial network (NTN) technologies for intelligent spectrum monitoring and interference management in integrated terrestrial and non-terrestrial communication systems. It involves the design of a technical roadmap and work package structure covering LMM-based channel information acquisition, ST-RSMA-based interference management in TN-NTN spectrum coexistence environments, AmBC-LMM integrated energy-efficient communication architectures, and LMM-driven spectrum monitoring platforms for LEO satellite operations. In addition, the project includes the organization of research objectives, methodologies, and milestone plans for a multi-year AI-NTN platform development program.
 * Technology Stack: MATLAB, Python, LMM, LLM
