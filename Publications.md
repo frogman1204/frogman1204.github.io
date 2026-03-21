@@ -17,8 +17,8 @@ permalink: /publications/
 
 
 ### CONFERENCE
-* [C6]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM 2026), 2026*.
-* [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>""</u> *The Korean Institute of Electrical Engineers (International Conference on Electrical Engineering, ICEE 2026).*
+* [C6]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>""</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM 2026), 2026*.
+* [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *The Korean Institute of Electrical Engineers (International Conference on Electrical Engineering, ICEE 2026).*
 * [C4] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-Based Study"</u> *Joint Conference on Communications and Information (JCCI 2026)*
 * [C3] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Yongmin Choi\*], [Byungju Lee]. <u>"AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-Based Study"</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026).* **[Excellence Undergraduate Student Paper Award]**
 
