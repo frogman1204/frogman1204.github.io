@@ -11,10 +11,10 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
-* [J1]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *IEEE Transactions on Vehicular Technology, 2027*.
+* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *IEEE Transactions on Vehicular Technology, 2027*.
 
 ### CONFERENCE
-* [C9] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>""</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2027).*
+* [C] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>""</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2027).*
 
 ## 2026
 
