@@ -21,7 +21,7 @@ permalink: /publications/
 ### JOURNAL
 * [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *OJCOS, 2026*.
 * [J2]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Minyong Park], [Younghan Kim], [Hunseok Yun], [byungju lee]. <u>""</u> *KCI, 2026*.
-* [J1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Younghan Kim], [byungju lee]. <u>""</u> *ICT Express, 2026*. (equl contribution)
+* [J1]. [Jongbeom Lee]+, <u><strong>[Yongkyun Kim]+</strong></u>, [Yeonghan Kim], [Hunseok Yun], [Minyong Park], [Byungju Lee]*. <u>"GIS-Assisted Deployment for Cooperative GEO-LEO Interference Monitoring"</u> *submitted to ICT Express, Apr. 2026*. (equal contribution)
 
 ### CONFERENCE
 * [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"blocked V2X AmBC"</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM WORKSHOP 2026)*.
