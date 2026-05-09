@@ -23,7 +23,7 @@ permalink: /publications/
 * [J1]. [Jongbeom Lee]+, <u><strong>[Yongkyun Kim]</strong></u>+, [Yeonghan Kim], [Hunseok Yun], [Minyong Park], [Byungju Lee\*]. <u>"GIS-Assisted Deployment for Cooperative GEO-LEO Interference Monitoring"</u> *submitted to ICT Express.* (equal contribution)
 
 ### CONFERENCE
-* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"blocked V2X AmBC"</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM WORKSHOP 2026)*.
+* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"Partial-RSMA semantic AmBC"</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM WORKSHOP 2026)*.
 * [C7] [Jongbeom Lee],<u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"TBD"</u> *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 * [C6] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *The Korean Institute of Electrical Engineers (International Conference on Electrical Engineering, ICEE 2026).*
 * [C5] [Hunseok Yun], <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"ISAC-RSMA-AmBC"</u> *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2026)*.
