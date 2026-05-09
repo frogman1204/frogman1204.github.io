@@ -19,8 +19,7 @@ permalink: /publications/
 ## 2026
 
 ### JOURNAL
-* [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *OJCOS, 2026*.
-* [J2]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Minyong Park], [Younghan Kim], [Hunseok Yun], [byungju lee]. <u>""</u> *KCI, 2026*.
+* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *IEEE Communication Magazine, 2026*.
 * [J1]. [Jongbeom Lee]+, <u><strong>[Yongkyun Kim]</strong></u>+, [Yeonghan Kim], [Hunseok Yun], [Minyong Park], [Byungju Lee\*]. <u>"GIS-Assisted Deployment for Cooperative GEO-LEO Interference Monitoring"</u> *submitted to ICT Express.* (equal contribution)
 
 ### CONFERENCE
