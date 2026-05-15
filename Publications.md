@@ -11,7 +11,8 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
-* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *IEEE Transactions on Vehicular Technology, 2027*.
+* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *IEEE Transactions on wireless communication, 2027*.
+* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *IEEE Communication Magazine, 2026*.
 
 ### CONFERENCE
 * [C] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>""</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2027).*
@@ -19,7 +20,6 @@ permalink: /publications/
 ## 2026
 
 ### JOURNAL
-* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *IEEE Communication Magazine, 2026*.
 * [J1]. [Jongbeom Lee]+, <u><strong>[Yongkyun Kim]</strong></u>+, [Yeonghan Kim], [Hunseok Yun], [Minyong Park], [Byungju Lee\*]. <u>"GIS-Assisted Deployment for Cooperative GEO-LEO Interference Monitoring"</u> *submitted to ICT Express.* (equal contribution)
 
 ### CONFERENCE
