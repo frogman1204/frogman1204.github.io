@@ -12,7 +12,8 @@ permalink: /publications/
 
 ### JOURNAL
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>""</u> *IEEE Transactions on wireless communication, 2027*.
-* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *IEEE Communication Magazine, 2026*.
+* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *IEEE Communication Magazine, 2026*.
+* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"OTFS RSMA"</u> *IEEE Communication Magazine, 2026*.
 
 ### CONFERENCE
 * [C] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>""</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2027).*
