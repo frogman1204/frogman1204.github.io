@@ -28,7 +28,8 @@ permalink: /publications/
 * [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The IEEE Seoul Section Student Paper Contest 2026.*
 * [C7] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"RSMA AmBC"</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM WORKSHOP 2026)*.
 * [C6] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The 17th International Conference on ICT Convergence (ICTC 2026)*.
-* [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *International Conference on Electrical Engineering (ICEE 2026).*
+* [C6] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"OTFS"</u> *2026 IEEE VTS Asia Pacific Wireless Communications Symposium (IEEE VTS APWCS 2026)*.
+* [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *International Conference on Electrical Engineering 2026 (ICEE 2026).*
 * [C4] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"차폐 V2X 네트워크에서 저복잡도 RSMA-AmBC 기반 태그 선택 기법"</u> *Joint Conference on Communications and Information (JCCI 2026)*
 * [C3] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Yongmin Choi\*], [Byungju Lee]. <u>"AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-Based Study"</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026).* **[Excellence Undergraduate Student Paper Award]**
 
