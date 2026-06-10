@@ -12,11 +12,10 @@ permalink: /publications/
 
 ### JOURNAL
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"RSMA AmBC"</u> *IEEE Transactions on wireless communication, 2027*.
-* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"AmBC"</u> *IEEE Communication Magazine, 2026*.
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"OTFS RSMA"</u> *IEEE Communication Magazine, 2026*.
 
 ### CONFERENCE
-* [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2027).*
+* [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The IEEE Seoul Section Student Paper Contest 2026.*
 * [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
 
 ## 2026
