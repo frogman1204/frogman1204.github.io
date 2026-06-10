@@ -15,6 +15,7 @@ permalink: /publications/
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"OTFS RSMA"</u> *IEEE Communication Magazine, 2026*.
 
 ### CONFERENCE
+* [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2027).*
 * [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
 
 ## 2026
