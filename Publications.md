@@ -11,6 +11,7 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
+* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"OTFS"</u> *IEEE Transactions on vehicle technology, 2027*.
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"RSMA AmBC"</u> *IEEE Transactions on wireless communication, 2027*.
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"OTFS RSMA"</u> *IEEE Communication Magazine, 2026*.
 
