@@ -15,7 +15,6 @@ permalink: /publications/
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"OTFS RSMA"</u> *IEEE Communication Magazine, 2026*.
 
 ### CONFERENCE
-* [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The IEEE Seoul Section Student Paper Contest 2026.*
 * [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
 
 ## 2026
@@ -24,6 +23,7 @@ permalink: /publications/
 * [J1]. [Jongbeom Lee]+, <u><strong>[Yongkyun Kim]</strong></u>+, [Yeonghan Kim], [Hunseok Yun], [Minyong Park], [Byungju Lee\*]. <u>"GIS-Assisted Deployment for Cooperative GEO-LEO Interference Monitoring"</u> *submitted to ICT Express.* (equal contribution)
 
 ### CONFERENCE
+* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The IEEE Seoul Section Student Paper Contest 2026.*
 * [C7] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"RSMA AmBC"</u> *2026 IEEE Global Communications Conference workshop (GLOBECOM WORKSHOP 2026)*.
 * [C6] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 * [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *International Conference on Electrical Engineering (ICEE 2026).*
