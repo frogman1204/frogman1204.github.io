@@ -14,18 +14,18 @@ permalink: /publications/
 * [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
 
 ### CONFERENCE
-* [C] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"TBD"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
-
+* [C10] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"TBD"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
+* [C9] <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"RSMA AmBC"</u> *2026 IEEE International Conference on Communications (ICC 2027)*.
 ## 2026
 
 ### JOURNAL
+* [J1]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE ACCESS, 2026*.
 
 ### CONFERENCE
-* [C9] <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"TBD"</u> *The IEEE Seoul Section Student Paper Contest 2026.*
-* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"RSMA AmBC"</u> *2026 IEEE Global Communications Conference Workshop (GLOBECOM WORKSHOP 2026)*.
-* [C7] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"OTFS"</u> *The 17th International Conference on ICT Convergence (ICTC 2026)*.
-* [C6] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Byungju Lee]. <u>"Performance Analysis of Multiple Access Schemes with Sensing Constraints in LEO-ISAC Systems "</u> *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2026).* **[Encouragement Undergraduate Student Paper Award]**
-* [C5] [Hunseok Yun], <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *International Conference on Electrical Engineering 2026 (ICEE 2026).*
+* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"Finite Blocklength RSMA with Ambient Backscatter for V2X Communications"</u> *2026 IEEE Global Communications Conference Workshop (GLOBECOM WORKSHOP 2026)*.
+* [C7] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Byungju Lee]. <u>"Space-Time Rate-Splitting Multiple Access for GEO-LEO Coexistence Under Statistical CSIT"</u> *The 17th International Conference on ICT Convergence (ICTC 2026)*.
+* [C6] [Hunseok Yun], <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"Performance Analysis of Multiple Access Schemes with Sensing Constraints in LEO-ISAC Systems "</u> *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2026).* **[Encouragement Undergraduate Student Paper Award]**
+* [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *International Conference on Electrical Engineering 2026 (ICEE 2026).*
 * [C4] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"차폐 V2X 네트워크에서 저복잡도 RSMA-AmBC 기반 태그 선택 기법"</u> *Joint Conference on Communications and Information (JCCI 2026)*
 * [C3] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Yongmin Choi\*], [Byungju Lee]. <u>"AmBC-Assisted RSMA for Urban V2X Systems: A Real-Map-Based Study"</u> *The Korean Institute of Communications and Information Sciences (KICS Winter Conference 2026).* **[Excellence Undergraduate Student Paper Award]**
 
