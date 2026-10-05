@@ -22,7 +22,7 @@ permalink: /publications/
 * [J1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE ACCESS, 2026*.
 
 ### CONFERENCE
-* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [byungju lee]. <u>"Finite Blocklength RSMA with Ambient Backscatter for V2X Communications"</u> *2026 IEEE Global Communications Conference Workshop (GLOBECOM WORKSHOP 2026)*.
+* [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Hunseok Yun], [byungju lee]. <u>"Finite Blocklength RSMA with Ambient Backscatter for V2X Communications"</u> *2026 IEEE Global Communications Conference Workshop (GLOBECOM WORKSHOP 2026)*.
 * [C7] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Byungju Lee]. <u>"Space-Time Rate-Splitting Multiple Access for GEO-LEO Coexistence Under Statistical CSIT"</u> *The 17th International Conference on ICT Convergence (ICTC 2026)*.
 * [C6] [Hunseok Yun], <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Byungju Lee]. <u>"Performance Analysis of Multiple Access Schemes with Sensing Constraints in LEO-ISAC Systems "</u> *The Korean Institute of Communications and Information Sciences (KICS Summer Conference 2026).* **[Encouragement Undergraduate Student Paper Award]**
 * [C5] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Byungju Lee]. <u>"Sky-Cell based Interference Analysis and Spectrum Monitoring Station Placement for GEO SATCOM Protection "</u> *International Conference on Electrical Engineering 2026 (ICEE 2026).* **[Ecellent Poster Presentation Award]**
