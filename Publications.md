@@ -11,11 +11,10 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
-* [J]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
+* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
 
 ### CONFERENCE
-* [C10] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"TBD"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
-* [C9] <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"RSMA AmBC"</u> *2026 IEEE International Conference on Communications (ICC 2027)*.
+* [C9] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"TBD"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
 ## 2026
 
 ### JOURNAL
