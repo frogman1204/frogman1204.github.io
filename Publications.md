@@ -11,6 +11,7 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
+* [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> .
 * [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
 
 ### CONFERENCE
