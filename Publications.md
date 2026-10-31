@@ -11,14 +11,16 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
-* [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> .
-* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
+* [J3]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> IEEE Transactions on wireless communication, 2027*.
+* [J2]. <u><strong>[Yongkyun Kim]</strong></u>, , ,[byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
 
 ### CONFERENCE
-* [C9] <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Jongbeom Lee], [Byungju Lee]. <u>"TBD"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
+* [C10] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Hunseok Yun], [byungju lee]. <u>"TBD"</u> *2026 IEEE Global Communications Conference (GLOBECOM 2027)*.
+* [C9] [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [Hunseok Yun], [Byungju Lee]. <u>"TBD"</u> *IEEE Vehicular Technology Conference (VTC Fall 2027).*
 ## 2026
 
 ### JOURNAL
+* [J1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *MDPI, 2026*.
 * [J1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE ACCESS, 2026*.
 
 ### CONFERENCE
