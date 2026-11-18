@@ -21,7 +21,7 @@ permalink: /publications/
 
 ### JOURNAL
 * [J2]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *MDPI, 2026*.
-* [J1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE ACCESS, 2026*.
+* [J1]. [Jongbeom Lee], <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *MDPI, 2026*.
 
 ### CONFERENCE
 * [C8] <u><strong>[Yongkyun Kim]</strong></u>, [Jongbeom Lee], [Hunseok Yun], [byungju lee]. <u>"Finite Blocklength RSMA with Ambient Backscatter for V2X Communications"</u> *2026 IEEE Global Communications Conference Workshop (GLOBECOM WORKSHOP 2026)*.
