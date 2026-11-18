@@ -11,7 +11,7 @@ permalink: /publications/
 ## 2027
 
 ### JOURNAL
-* [J4]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> IEEE Transactions on wireless communication, 2027*.
+* [J4]. <u><strong>[Yongkyun Kim]</strong></u>, [byungju lee]. <u>"TBD"</u> *IEEE Transactions on wireless communication, 2027*.
 * [J3]. <u><strong>[Yongkyun Kim]</strong></u>, , ,[byungju lee]. <u>"TBD"</u> *IEEE Transactions on vehicle technology, 2027*.
 
 ### CONFERENCE
